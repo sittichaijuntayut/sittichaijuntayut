@@ -6,9 +6,8 @@ Hi 👋 My name is sittichai juntayut
 ![](https://komarev.com/ghpvc/?username=your-github-sittichaijuntayut&color=green)
 
 
-<img width="736" height="736" alt="image" src="https://github.com/user-attachments/assets/64d02fff-7f95-4f24-bdd0-7569ffb5590d" />
 
-
+<img width="540" height="360" alt="image" src="https://github.com/user-attachments/assets/7b8e674a-ce49-4111-a5a3-33e9b6b845d9" />
 
 
 
