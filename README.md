@@ -3,6 +3,7 @@ Hi 👋 My name is sittichai juntayut
 
 💻 Computer Engineering Student | Passionate about Software & Technology
 ------------------------------------------------------------------------
+![](https://komarev.com/ghpvc/?username=your-github-sittichaijuntayut&color=green)
 
 💻 Computer Engineering Student | Turning Ideas into Digital Solutions
 
