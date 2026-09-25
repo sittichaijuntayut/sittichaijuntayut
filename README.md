@@ -7,7 +7,7 @@ Hi 👋 My name is sittichai juntayut
 
 
 
-<img width="320" height="360" alt="image" src="https://github.com/user-attachments/assets/7b8e674a-ce49-4111-a5a3-33e9b6b845d9" />
+<img width="540" height="360" alt="image" src="https://github.com/user-attachments/assets/7b8e674a-ce49-4111-a5a3-33e9b6b845d9" />
 
 
 
